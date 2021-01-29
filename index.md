@@ -29,9 +29,8 @@ Here you find the documentation of the software architecture that we envision to
 As a starting point, there's a context diagram that gives an overview of the external elements that interact with 
 what we called the *Farmacy Food System*, which is the scope of this software architecture.
 
-<table>
-<tr><td align="center"><a href="architecture/context-diagram.md">Context Diagram<br><img src="images/context-diagram.png" width="200"></a></td></tr>
-</table>
+
+- [Context Diagram](architecture/context-diagram.md)
 
 The main part of the software architecture is the set of five *architecture views* seen below. These views provide a runtime 
 perspective of the system, that is, they show the components and connectors that have runtime presence and 
